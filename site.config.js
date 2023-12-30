@@ -3,18 +3,23 @@ const CONFIG = {
   profile: {
     name: "Tech Egyptians Abroad",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "",
     bio: "Empowering a network of socially, academically, and professionally adept Egyptians to collaboratively uplift each other in America.",
     email: "techegyptiansabroad@gmail.com",
+    linkedin: "",
+    github: "",
+    instagram: "",
   },
   projects: [
     {
       name: `Tech Egyptians Abroad`,
+      href: "",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "Tech Egyptians Abroad",
-    description: "Empowering a network of socially, academically, and professionally adept Egyptians to collaboratively uplift each other in America.",
+    title: "morethan-log",
+    description: "welcome to morethan-log!",
   },
 
   // CONFIG configration (required)
