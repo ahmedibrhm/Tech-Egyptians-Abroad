@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Tech Egyptians Abroad",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
-    bio: "Empowering a network of socially, academically, and professionally adept Egyptians to collaboratively uplift each other in America.",
+    bio: "Empowering Egyptians In Tech.",
     email: "techegyptiansabroad@gmail.com",
     linkedin: "",
     github: "",
