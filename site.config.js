@@ -16,7 +16,7 @@ const CONFIG = {
       href: "",
     },
   ],
-  // blog setting (required)
+  // blog setting (required) 
   blog: {
     title: "Tech Egyptians Abroad",
     description: "welcome to Tech Egyptians Abroad Blog!",
